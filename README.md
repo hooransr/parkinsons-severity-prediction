@@ -180,6 +180,3 @@ It is not a clinical diagnostic system or medical decision-making tool.
 ## Author
 
 Dentist transitioning toward computational neuroscience and interdisciplinary machine learning research.
-
-```
-```
